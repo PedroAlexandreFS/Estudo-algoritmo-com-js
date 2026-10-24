@@ -22,6 +22,6 @@ DESCRIÇÃO: É um estudo de logica pegando as atividades que fiz em portugol e 
 [versão  JavaScript](Imposto/js/index.js)
 
 `Reais para dolar`:<br>
-[versão portugol]()
+[versão portugol](https://github.com/PedroAlexandreFS/Estudo-de-algoritimo-com-portugol/blob/main/reais-para-dolar.ALG)
 <br>
 [versão  JavaScript](Reais_para_dolar/js/index.js)
