@@ -17,7 +17,7 @@ DESCRIÇÃO: É um estudo de logica pegando as atividades que fiz em portugol e 
 [versão  JavaScript](Idade/js/index.js)
 
 `Imposto`:<br>
-[versão portugol]()
+[versão portugol](https://github.com/PedroAlexandreFS/Estudo-de-algoritimo-com-portugol/blob/main/IMPOSTO.ALG)
 <br>
 [versão  JavaScript](Imposto/js/index.js)
 
