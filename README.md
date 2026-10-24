@@ -11,4 +11,17 @@ DESCRIÇÃO: É um estudo de logica pegando as atividades que fiz em portugol e 
 <br>
 [versão JavaScript](Emprestimo/js/index.js)
 
+`idade`:<br>
+[versão portugol]()
+<br>
+[versão  JavaScript](Idade/js/index.js)
 
+`Imposto`:<br>
+[versão portugol]()
+<br>
+[versão  JavaScript](Imposto/js/index.js)
+
+`Reais para dolar`:<br>
+[versão portugol]()
+<br>
+[versão  JavaScript](Reais_para_dolar/js/index.js)
