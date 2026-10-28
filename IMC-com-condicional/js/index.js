@@ -40,21 +40,24 @@ Inicio
 */
 
 //perguntando qual a altura
-document.querySelector('#altura').innerHTML = "Qual a sua altura? (M)"
+document.querySelector('#Altura').innerHTML = "Qual a sua altura? (M)"
 
 //pegando a caixa do input altura
 let caixaInputAltura = document.querySelector('#inputAltura');
 
 //perguntando qual o peso
-document.querySelector('#altura').innerHTML = "Qual a sua altura? (M)"
+document.querySelector('#peso').innerHTML = "Qual a seu peso? (kg)"
 
 //pegando a caixa do input peso
-let caixaInputPeso = document.querySelector('#inputAltura');
+let caixaInputPeso = document.querySelector('#inputPeso');
 
 //pegando o botão
 let botaoImc = document.querySelector('#btn-imc');
 botaoImc.addEventListener('click', function () {
-    let altura = caixaInputAltura.value;
-    let peso = caixaInputPeso.value;
+    let altura = Number(caixaInputAltura.value);
+    let peso = Number(caixaInputPeso.value);
+
+   let imc = peso / ((altura / 100 ) ** 2);
+   document.querySelector('#resultado').innerHTML = "O imc é: " + imc.toFixed(2);
     
 })
