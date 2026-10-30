@@ -29,7 +29,7 @@ DESCRIÇÃO: É um estudo de logica pegando as atividades que fiz em portugol e 
 `par-ou-impar`:<br>
 [versão portugol]()
 <br>
-[Versão JavaScript](par -ou-impar/js/index.js)
+[Versão JavaScript](par-ou-impar/js/index.js)
 
 `IMC-com-condicional`:<br>
 [Versão portugol]()

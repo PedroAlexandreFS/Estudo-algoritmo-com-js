@@ -33,7 +33,7 @@ let inputCaixaNasci = document.querySelector('#inputAnoNascimento');
 //variavel para quarda o primeiro valor
 let anoNascimento;
 
-//variaveldo segundo valor
+//variavel do segundo valor
 let anoAtual;
 
 //pegando o botão
