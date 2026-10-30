@@ -25,3 +25,13 @@ DESCRIÇÃO: É um estudo de logica pegando as atividades que fiz em portugol e 
 [versão portugol](https://github.com/PedroAlexandreFS/Estudo-de-algoritimo-com-portugol/blob/main/reais-para-dolar.ALG)
 <br>
 [versão  JavaScript](Reais_para_dolar/js/index.js)
+
+`par-ou-impar`:<br>
+[versão portugol]()
+<br>
+[Versão JavaScript](par-ou-impar/js/index.js)
+
+`IMC-com-condicional`:<br>
+[Versão portugol]()
+<br>
+[Versão JavaScript](IMC-com-condicional/js/index.js)
