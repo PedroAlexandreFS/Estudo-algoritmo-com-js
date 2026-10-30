@@ -32,6 +32,6 @@ DESCRIÇÃO: É um estudo de logica pegando as atividades que fiz em portugol e 
 [Versão JavaScript](par-ou-impar/js/index.js)
 
 `IMC-com-condicional`:<br>
-[Versão portugol]()
+[Versão portugol](https://github.com/PedroAlexandreFS/Estudo-de-algoritimo-com-portugol/blob/main/IMC%20COM%20CONDICIONAL.ALG)
 <br>
 [Versão JavaScript](IMC-com-condicional/js/index.js)
