@@ -42,7 +42,7 @@ DESCRIÇÃO: É um estudo de logica pegando as atividades que fiz em portugol e 
 [versão javaScript](aprovado-ou-reprovado/js/index.js)
 
 `apto-a-dirigir`:<br>
-[versão portugol]()
+[versão portugol](https://github.com/PedroAlexandreFS/Estudo-de-algoritimo-com-portugol/blob/main/APTO%20%C3%A0%20DIRIGIR.ALG)
 <br>
 [versão javaScript](apto-a-dirigir/js/index.js)
 
