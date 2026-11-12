@@ -47,7 +47,7 @@ DESCRIÇÃO: É um estudo de logica pegando as atividades que fiz em portugol e 
 [versão javaScript](apto-a-dirigir/js/index.js)
 
 `nota-deA-a-F`:<br>
-[versão portugol]()
+[versão portugol](https://github.com/PedroAlexandreFS/Estudo-de-algoritimo-com-portugol/blob/main/NOTA%20DE%20A%20A%20F.ALG)
 <br>
 [versão javaScript](nota-deA-a-F/js/index.js)
 
