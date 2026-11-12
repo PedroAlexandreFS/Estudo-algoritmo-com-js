@@ -35,3 +35,24 @@ DESCRIÇÃO: É um estudo de logica pegando as atividades que fiz em portugol e 
 [Versão portugol](https://github.com/PedroAlexandreFS/Estudo-de-algoritimo-com-portugol/blob/main/IMC%20COM%20CONDICIONAL.ALG)
 <br>
 [Versão JavaScript](IMC-com-condicional/js/index.js)
+
+`Aprovado-ou-reprovado`:<br>
+[versão portugol]()
+<br>
+[versão javaScript](aprovado-ou-reprovado/js/index.js)
+
+`apto-a-dirigir`:<br>
+[versão portugol]()
+<br>
+[versão javaScript](apto-a-dirigir/js/index.js)
+
+`nota-deA-a-F`:<br>
+[versão portugol]()
+<br>
+[versão javaScript](nota-deA-a-F/js/index.js)
+
+`futebol`:<br>
+[versão portugol]()
+<br>
+[versão javaScript](futebol/js/index.js)
+
