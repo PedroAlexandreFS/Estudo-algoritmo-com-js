@@ -41,9 +41,9 @@ Fimalgoritmo
 
 //objeto com os valores das opções do select
 const doacao = {
-   "1": "10$",
-   "2": "25$",
-   "3": "50$",
+   "1": "10",
+   "2": "25",
+   "3": "50",
    "4": "outros valores",
    "5": "cancelar"
 
@@ -99,7 +99,7 @@ form.addEventListener('submit', function (e) {
 
          } else {
             //caso o valor digitado seja validoele escreverar ovalor doado
-            resultado.textContent = `o valor doado foi  ${valorDigitado}`;
+            resultado.textContent = `o valor doado foi R$${valorDigitado}`;
          }
 
       }
@@ -108,7 +108,7 @@ form.addEventListener('submit', function (e) {
    } else if (valorscolhido === "5") {
       resultado.textContent = `Doação Cancelada`
    } else {
-      resultado.textContent = `o valor doado foi ${valordoacao}`;
+      resultado.textContent = `o valor doado foi R$${valordoacao}`;
    }
 
 
