@@ -39,13 +39,18 @@ let nota2;
 let M;
 
 let controle = 1;
-let botao = document.querySelector('#btn-confirmar');
+let formu = document.querySelector('#formu');
 
 //Escrevendo a pergunta;
 pergunta.innerHTML = `Qual a primeira nota? `
 
+
 //adicionando o evento click no botao
-botao.addEventListener('click', function () {
+formu.addEventListener('submit', function (e) {
+
+   e.preventDefault()
+
+
    if (controle < 2) {
       //quardando o primeiro valor
       nota1 = Number(caixaInput.value);
