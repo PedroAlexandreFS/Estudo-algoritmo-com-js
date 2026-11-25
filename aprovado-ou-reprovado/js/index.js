@@ -72,6 +72,15 @@ formu.addEventListener('submit', function (e) {
       //calculando a mediadas notas
       M = (nota1 + nota2) / 2;
 
+      controle--;
+
+      //limpando o input
+      caixaInput.value = "";
+
+      //escrevendo outra pergunta
+      pergunta.innerHTML = `qual a primeira nota? `;
+
+
 
       //decidindo se foi aprovado ou não
       if (M >= 7) {
